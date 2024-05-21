@@ -1,7 +1,7 @@
 {
   "short_name": "Onsite Alpha",
   "name": "Onsite Alpha",
-  "start_url": "/",
+  "start_url": "/pwa-test",
   "id": "/",
   "display": "fullscreen",
   "background_color": "#ffffff",
@@ -9,10 +9,10 @@
   "shortcuts": [
     {
       "name": "Homepage",
-      "url": "/",
+      "url": "/pwa-test",
       "icons": [
         {
-          "src": "icons/android-chrome-512x512.png",
+          "src": "./icons/android-chrome-512x512.png",
           "sizes": "512x512",
           "type": "image/png"
         }
@@ -21,13 +21,13 @@
   ],
   "icons": [
     {
-      "src": "/icons/android-chrome-192x192.png",
+      "src": "./icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icons/android-chrome-512x512.png",
+      "src": "./icons/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
